@@ -1,6 +1,7 @@
+<img src="https://github.com/maddatsubedi/maddatsubedi/blob/main/banner.gif?raw=true">
 <h1 align="center">Hi 👋, I'm SATISH SENAPATHI</h1>
 <h3 align="center">Java Full Stack & UI/UX Trainee A highly motivated and detail-oriented aspiring Java Full Stack Developer with a strong foundation in frontend and backend technologies. Passionate about building responsive and visually appealing web applications with seamless user experiences. Skilled in Java, Spring Boot, Angular, and modern UI/UX design principles. Proficient in wireframing, prototyping, and creating intuitive interfaces using Figma and Adobe XD. Eager to apply my knowledge in a professional setting, collaborate with teams, and continuously learn to enhance both technical and design skills.</h3>
-<img src="https://github.com/maddatsubedi/maddatsubedi/blob/main/banner.gif?raw=true">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satish429&label=Profile%20views&color=0e75b6&style=flat" alt="satish429" /> </p>
 
 - 🔭 I’m currently working on **INTERN: TECHWING**
